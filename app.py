@@ -9,7 +9,7 @@ st.title("Somali Family Tree (D3 Tree)")
 # --- UI controls ---
 # Filter to the major clans (click-to-select, multi) + layout + initial depth
 CLAN_OPTIONS = [
-    
+    ("Darood", "1"),
     ("Dir", "158"),
     ("Rahanweyn", "651"),
     ("Hawiye", "572"),
