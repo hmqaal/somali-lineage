@@ -13,6 +13,7 @@ CLAN_OPTIONS = [
     ("Dir", "158"),
     ("Rahanweyn", "651"),
     ("Hawiye", "572"),
+    ("Prune", "-1"),
     ("Sheikh Isaaq", "1000"),
 ]
 
