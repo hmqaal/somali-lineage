@@ -4,7 +4,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 st.set_page_config(layout="wide")
-st.title("Somali Family Tree (D3 Tree)")
+st.title("digital family tree ")
 
 # --- UI controls ---
 # Filter to the major clans (click-to-select, multi) + layout + initial depth
